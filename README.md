@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**juninhodigital/juninhodigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Jose Carlos de Jesus Junior: a tech lover currently working as Senior Information Technology Architect.Beside's programming, I love staying with my family, fishing in the high sea and traveling.
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://github.com/juninhodigital/juninhodigital/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Azure based solutions for customers all over the world
+- 💻 Studying and lerning about hardening / cloud security
+- 💬 Ask me about Azure, .NET, high scaling apps, serverless, microservices
+- 📫 How to reach me: juninho_web@hotmail.com
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/juninhodigital/en)](https://br.linkedin.com/in/juninhodigital/en)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juninhodev)](https://twitter.com/juninhodev)
