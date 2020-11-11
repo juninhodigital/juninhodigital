@@ -4,7 +4,8 @@ Hi, my name is Jose Carlos de Jesus Junior: a tech lover currently working as Se
 
   <img align="right" alt="GIF" src="https://github.com/juninhodigital/juninhodigital/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on Azure based solutions for customers all over the world
+- 🔭 MCPD, MCAD, MCTS and Microsoft Certified Specialist
+- 📝 I’m currently working on Azure based solutions for customers all over the world
 - 💻 Studying and lerning about hardening / cloud security
 - 💬 Ask me about Azure, .NET, high scaling apps, serverless, microservices
 - 📫 How to reach me: juninho_web@hotmail.com
