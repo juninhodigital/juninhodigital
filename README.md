@@ -2,7 +2,7 @@
 
 Hi, my name is Jose Carlos de Jesus Junior: a tech lover currently working as Senior Information Technology Architect.Beside's programming, I love staying with my family, fishing in the high sea and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/juninhodigital/juninhodigital/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/juninhodigital/juninhodigital/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Azure based solutions for customers all over the world
 - 💻 Studying and lerning about hardening / cloud security
